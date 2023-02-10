@@ -1,11 +1,11 @@
 # An Analysis of Weather for Oahu
-## Analyzing weather summary of Oahu for the Summer and Winter months.\
+## Analyzing weather summary of Oahu for the Summer and Winter months.
 We took a look at average temperatures in Oahu for the months of June and December to find trends during the start of summer and the start of winter. Using these two months, which are six months apart, gave us good insight into temperature trends without being flooded with unnecessary data.
 
 ## Results of the Oahu Temperature Analysis
-- For the month of June, we showed a maximum temperature of 85 degrees and a minimum temperature of 64 degrees
+- For the month of June, we showed a maximum temperature of 85 degrees and a minimum temperature of 64 degrees.
 - For the month of December, the maximum temperature was 83 while the minimum dropped down to 56.
-- The mean, or average, for June was 74 and was 71 for December
+- The mean, or average, for June was 74 and was 71 for December.
 
 # Temperature Trends
 While the minimum temperature for Oahu dropped to 56 degrees in December, the average temperature stayed close to the average temperature we saw in June. Oahu appears to show a stable temperature in both June and December so we could expect the same results year round.
